@@ -2,6 +2,7 @@
 A simple party Unity game my teammates and I created at Global Game Jam 2019.
 
 [GGJ Desc. Page](https://globalgamejam.org/2019/games/%E5%A1%8A%E5%A1%8A%E5%A4%A7%E4%BA%82%E9%AC%A5-cubes-campaign)
+
 [Demo Video](https://www.facebook.com/lairdstudio.official/videos/381804445965583/)
 
 A party game for 4 players to have fun!
